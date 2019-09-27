@@ -1,0 +1,41 @@
+.editdiv{
+    border:solid black;
+    margin: 50px;
+    padding:20px;
+}
+
+.inputedittitle{
+    justify-content: space-around;
+    width: 120px;
+     min-width: 100%; 
+    box-sizing: border-box;
+    padding: 4px;
+    outline: none;
+    margin: 5px;
+}
+
+.textareaediteintrag{
+    justify-content: space-around;
+    box-sizing: border-box;
+    outline: none;
+    width: 120px;
+    height: 150px;
+    min-width: 100%; 
+    padding :4px;
+    margin: 5px;
+}
+
+.labeledit{
+    justify-content: space-around;
+     padding: 4ex;
+}
+
+.selectkategorie{
+    justify-content: space-around;
+    width: 120px;
+     min-width: 100%; 
+    box-sizing: border-box;
+    padding: 4px;
+    outline: none;
+    margin: 5px;
+}
